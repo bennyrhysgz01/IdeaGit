@@ -5,6 +5,6 @@ package com.bennyrhys;
  */
 public class Hello {
     public static void mian(String[] args){
-        System.out.println("hello12");
+        System.out.println("hello123");
     }
 }
